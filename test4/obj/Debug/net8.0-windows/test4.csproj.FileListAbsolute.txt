@@ -14,3 +14,4 @@ C:\Users\User\OneDrive\Desktop\full stack dev cores\C#\test4\test4\obj\Debug\net
 C:\Users\User\OneDrive\Desktop\full stack dev cores\C#\test4\test4\obj\Debug\net8.0-windows\test4.pdb
 C:\Users\User\OneDrive\Desktop\full stack dev cores\C#\test4\test4\obj\Debug\net8.0-windows\test4.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\full stack dev cores\C#\test4\test4\obj\Debug\net8.0-windows\ref\test4.dll
+C:\Users\User\OneDrive\Desktop\full stack dev cores\C#\test4\test4\obj\Debug\net8.0-windows\test4.sourcelink.json

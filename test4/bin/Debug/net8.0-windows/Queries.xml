@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Queries>
-  <Query dayWeek="שלישי" dayMonth="23" Month="מרחשון" Year="התשצ'א" Result="בשלישי בשבת שלושה ועשרים יום לירח מרחשון חמשת אלפים ושבע מאות ותשעים ואחת לבריאת העולם" />
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>8</DayMonth>
+    <Month>אייר</Month>
+    <Year>התשפ'ח</Year>
+    <Result>בשלישי בשבת שמנה ימים לירח אייר חמשת אלפים ושבע מאות ושמונים ושמונה לבריאת העולם</Result>
+  </Query>
 </Queries>

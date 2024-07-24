@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{40432538-34D9-4A5C-BBE4-E5E3DEDB6559}|test4\\test4.csproj|solutionrelative:test4\\model\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40432538-34D9-4A5C-BBE4-E5E3DEDB6559}|test4\\test4.csproj|c:\\users\\user\\onedrive\\desktop\\full stack dev cores\\c#\\test4\\test4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40432538-34D9-4A5C-BBE4-E5E3DEDB6559}|test4\\test4.csproj|C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\test4\\test4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40432538-34D9-4A5C-BBE4-E5E3DEDB6559}|test4\\test4.csproj|solutionrelative:test4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "test4\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\test4\\test4\\Form1.cs",
               "RelativeToolTip": "test4\\Form1.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAmwB0AAAAlAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T09:32:31.033Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\test4\\test4\\Form1.cs [Design]",
               "RelativeToolTip": "test4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:52:34.234Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-24T06:52:34.234Z"
             },
             {
               "$type": "Document",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "test4\\Service\\DateService.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\full stack dev cores\\C#\\test4\\test4\\Service\\DateService.cs",
               "RelativeToolTip": "test4\\Service\\DateService.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAYwJYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T06:58:59.903Z",
               "EditorCaption": ""
